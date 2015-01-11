@@ -1,0 +1,638 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ANY_CONVERSION_EATER_DWA20031117_HPP	detail/any_conversion_eater.hpp	5;"	d
+BOOST_CONCEPT_USAGE	iterator_concepts.hpp	/^      BOOST_CONCEPT_USAGE(WritableIterator)$/;"	f	struct:boost_concepts::WritableIterator
+BOOST_ENABLE_IF_23022003THW_HPP	detail/enable_if.hpp	8;"	d
+BOOST_FILTER_ITERATOR_23022003THW_HPP	filter_iterator.hpp	8;"	d
+BOOST_FUNCTION_INPUT_ITERATOR	function_input_iterator.hpp	10;"	d
+BOOST_INDIRECT_ITERATOR_23022003THW_HPP	indirect_iterator.hpp	8;"	d
+BOOST_INTEROPERABLE_23022003THW_HPP	interoperable.hpp	8;"	d
+BOOST_ITERATOR_ADAPTOR_23022003THW_HPP	iterator_adaptor.hpp	8;"	d
+BOOST_ITERATOR_ADAPTOR_ASSERT_TRAVERSAL	iterator_adaptor.hpp	314;"	d
+BOOST_ITERATOR_ADAPTOR_ASSERT_TRAVERSAL	iterator_adaptor.hpp	345;"	d
+BOOST_ITERATOR_ARCHETYPES_HPP	iterator_archetypes.hpp	7;"	d
+BOOST_ITERATOR_CATEGORIES_HPP	iterator_categories.hpp	7;"	d
+BOOST_ITERATOR_CATEGORY	iterator_traits.hpp	16;"	d
+BOOST_ITERATOR_CONCEPTS_HPP	iterator_concepts.hpp	7;"	d
+BOOST_ITERATOR_CONFIG_DEF	detail/config_def.hpp	22;"	d
+BOOST_ITERATOR_CONFIG_DEF	detail/config_undef.hpp	21;"	d
+BOOST_ITERATOR_CONVERTIBLE	iterator_facade.hpp	863;"	d
+BOOST_ITERATOR_CONVERTIBLE	iterator_facade.hpp	865;"	d
+BOOST_ITERATOR_FACADE_23022003THW_HPP	iterator_facade.hpp	8;"	d
+BOOST_ITERATOR_FACADE_INTEROP	iterator_facade.hpp	868;"	d
+BOOST_ITERATOR_FACADE_INTEROP	iterator_facade.hpp	935;"	d
+BOOST_ITERATOR_FACADE_INTEROP_HEAD	iterator_facade.hpp	465;"	d
+BOOST_ITERATOR_FACADE_INTEROP_HEAD	iterator_facade.hpp	958;"	d
+BOOST_ITERATOR_FACADE_INTEROP_HEAD_IMPL	iterator_facade.hpp	441;"	d
+BOOST_ITERATOR_FACADE_INTEROP_HEAD_IMPL	iterator_facade.hpp	960;"	d
+BOOST_ITERATOR_FACADE_INTEROP_RANDOM_ACCESS	iterator_facade.hpp	896;"	d
+BOOST_ITERATOR_FACADE_INTEROP_RANDOM_ACCESS	iterator_facade.hpp	936;"	d
+BOOST_ITERATOR_FACADE_INTEROP_RANDOM_ACCESS_HEAD	iterator_facade.hpp	468;"	d
+BOOST_ITERATOR_FACADE_INTEROP_RANDOM_ACCESS_HEAD	iterator_facade.hpp	959;"	d
+BOOST_ITERATOR_FACADE_NEEDS_ITERATOR_BASE	iterator_facade.hpp	137;"	d
+BOOST_ITERATOR_FACADE_NEEDS_ITERATOR_BASE	iterator_facade.hpp	621;"	d
+BOOST_ITERATOR_FACADE_PLUS	iterator_facade.hpp	938;"	d
+BOOST_ITERATOR_FACADE_PLUS	iterator_facade.hpp	955;"	d
+BOOST_ITERATOR_FACADE_PLUS_HEAD	iterator_facade.hpp	471;"	d
+BOOST_ITERATOR_FACADE_PLUS_HEAD	iterator_facade.hpp	956;"	d
+BOOST_ITERATOR_FACADE_RANDOM_ACCESS_RELATION	iterator_facade.hpp	912;"	d
+BOOST_ITERATOR_FACADE_RANDOM_ACCESS_RELATION	iterator_facade.hpp	925;"	d
+BOOST_ITERATOR_FACADE_RELATION	iterator_facade.hpp	882;"	d
+BOOST_ITERATOR_FACADE_RELATION	iterator_facade.hpp	893;"	d
+BOOST_ITERATOR_MINIMUM_CATEGORY_HPP_INCLUDED_	minimum_category.hpp	5;"	d
+BOOST_ITERATOR_REF_CONSTNESS_KILLS_WRITABILITY	detail/config_def.hpp	45;"	d
+BOOST_LVALUE_PRESERVER	is_lvalue_iterator.hpp	38;"	d
+BOOST_LVALUE_PRESERVER	is_lvalue_iterator.hpp	79;"	d
+BOOST_NEW_ITERATOR_TESTS_HPP	new_iterator_tests.hpp	2;"	d
+BOOST_NO_IS_CONVERTIBLE	detail/config_def.hpp	87;"	d
+BOOST_NO_IS_CONVERTIBLE	detail/config_undef.hpp	14;"	d
+BOOST_NO_IS_CONVERTIBLE_TEMPLATE	detail/config_def.hpp	92;"	d
+BOOST_NO_IS_CONVERTIBLE_TEMPLATE	detail/config_undef.hpp	15;"	d
+BOOST_NO_LVALUE_RETURN_DETECTION	detail/config_def.hpp	54;"	d
+BOOST_NO_LVALUE_RETURN_DETECTION	detail/config_undef.hpp	17;"	d
+BOOST_NO_ONE_WAY_ITERATOR_INTEROP	detail/config_def.hpp	125;"	d
+BOOST_NO_ONE_WAY_ITERATOR_INTEROP	detail/config_undef.hpp	18;"	d
+BOOST_NO_STRICT_ITERATOR_INTEROPERABILITY	detail/config_def.hpp	114;"	d
+BOOST_NO_STRICT_ITERATOR_INTEROPERABILITY	detail/config_undef.hpp	16;"	d
+BOOST_PERMUTATION_ITERATOR_HPP	permutation_iterator.hpp	9;"	d
+BOOST_READABLE_PRESERVER	is_readable_iterator.hpp	48;"	d
+BOOST_REVERSE_ITERATOR_23022003THW_HPP	reverse_iterator.hpp	8;"	d
+BOOST_TRANSFORM_ITERATOR_23022003THW_HPP	transform_iterator.hpp	8;"	d
+BOOST_TUPLE_ALGO	zip_iterator.hpp	189;"	d
+BOOST_TUPLE_ALGO	zip_iterator.hpp	193;"	d
+BOOST_TUPLE_ALGO_DISPATCH	zip_iterator.hpp	188;"	d
+BOOST_TUPLE_ALGO_RECURSE	zip_iterator.hpp	191;"	d
+BOOST_TUPLE_ALGO_RECURSE	zip_iterator.hpp	195;"	d
+BOOST_TUPLE_ALGO_TERMINATOR	zip_iterator.hpp	190;"	d
+BOOST_TUPLE_ALGO_TERMINATOR	zip_iterator.hpp	194;"	d
+BOOST_ZIP_ITERATOR_TMB_07_13_2003_HPP_	zip_iterator.hpp	7;"	d
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(BidirectionalTraversal,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(ForwardTraversal,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(IncrementableIterator,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(InteroperableIterator,(Iterator)(ConstIterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(LvalueIterator,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(RandomAccessTraversal,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(ReadableIterator,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(SinglePassIterator,(Iterator))$/;"	f	namespace:boost_concepts
+BOOST_concept	iterator_concepts.hpp	/^  BOOST_concept(SwappableIterator,(Iterator))$/;"	f	namespace:boost_concepts
+COUNTING_ITERATOR_DWA200348_HPP	counting_iterator.hpp	6;"	d
+FACADE_ITERATOR_CATEGORY_DWA20031118_HPP	detail/facade_iterator_category.hpp	5;"	d
+IS_LVALUE_ITERATOR_DWA2003112_HPP	is_lvalue_iterator.hpp	5;"	d
+IS_READABLE_ITERATOR_DWA2003112_HPP	is_readable_iterator.hpp	5;"	d
+ITERATOR_TRAITS_DWA200347_HPP	iterator_traits.hpp	6;"	d
+MINIMUM_CATEGORY_DWA20031119_HPP	detail/minimum_category.hpp	5;"	d
+WritableIterator	iterator_concepts.hpp	/^  struct WritableIterator$/;"	s	namespace:boost_concepts
+WritableIteratorConcept	iterator_concepts.hpp	/^  struct WritableIteratorConcept : WritableIterator<Iterator,ValueType> {};$/;"	s	namespace:boost_concepts
+access	iterator_archetypes.hpp	/^      typedef iterator_access_archetype<Value, AccessCategory> access;$/;"	t	struct:boost::iterators::detail::iterator_archetype_base
+advance	iterator_adaptor.hpp	/^      void advance(typename super_t::difference_type n)$/;"	f	class:boost::iterators::iterator_adaptor
+advance	iterator_facade.hpp	/^      static void advance(Facade& f, typename Facade::difference_type n)$/;"	f	class:boost::iterators::iterator_core_access
+advance	reverse_iterator.hpp	/^      void advance(typename super_t::difference_type n)$/;"	f	class:boost::iterators::reverse_iterator
+advance	zip_iterator.hpp	/^    void advance(typename super_t::difference_type n)$/;"	f	class:boost::iterators::zip_iterator
+advance_iterator	zip_iterator.hpp	/^      advance_iterator(DiffType step) : m_step(step) {}$/;"	f	class:boost::iterators::detail::advance_iterator
+advance_iterator	zip_iterator.hpp	/^    class advance_iterator$/;"	c	namespace:boost::iterators::detail
+always_bool2	iterator_facade.hpp	/^    struct always_bool2$/;"	s	namespace:boost::iterators::detail
+and_with_two_args	zip_iterator.hpp	/^      struct and_with_two_args$/;"	s	namespace:boost::iterators::detail
+and_with_two_args	zip_iterator.hpp	/^      struct and_with_two_args<mpl::_1,mpl::_2>$/;"	s	namespace:boost::iterators::detail
+any_conversion_eater	detail/any_conversion_eater.hpp	/^struct any_conversion_eater$/;"	s	namespace:boost::iterators::detail
+apply	iterator_categories.hpp	/^    struct apply : iterator_traversal<T>$/;"	s	struct:boost::iterators::iterator_traversal
+apply	iterator_categories.hpp	/^    struct apply : pure_iterator_traversal<T>$/;"	s	struct:boost::iterators::pure_iterator_traversal
+apply	iterator_facade.hpp	/^        static result_type apply(Reference const & x)$/;"	f	struct:boost::iterators::detail::operator_arrow_dispatch
+apply	iterator_facade.hpp	/^        static result_type apply(T& x)$/;"	f	struct:boost::iterators::detail::operator_arrow_dispatch
+apply	iterator_facade.hpp	/^        struct apply$/;"	s	struct:boost::iterators::detail::always_bool2
+apply	iterator_facade.hpp	/^        struct apply$/;"	s	struct:boost::iterators::detail::choose_difference_type
+apply	minimum_category.hpp	/^    struct apply : minimum_category<T1,T2>$/;"	s	struct:boost::iterators::minimum_category
+apply	minimum_category.hpp	/^    template <class T1, class T2> struct apply$/;"	s	struct:boost::iterators::detail::minimum_category_impl
+apply	zip_iterator.hpp	/^          struct apply : mpl::and_<A1,A2>$/;"	s	struct:boost::iterators::detail::and_with_two_args
+apply	zip_iterator.hpp	/^        struct apply : iterator_reference<T> {};$/;"	s	struct:boost::iterators::detail::iterator_reference
+apply	zip_iterator.hpp	/^      struct apply$/;"	s	struct:boost::iterators::detail::dereference_iterator
+archetype	iterator_archetypes.hpp	/^          archetype()$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+archetype	iterator_archetypes.hpp	/^          explicit archetype(ctor_arg arg)$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+archetype	iterator_archetypes.hpp	/^          explicit archetype(ctor_arg) {}$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+archetype	iterator_archetypes.hpp	/^      struct archetype$/;"	s	struct:boost::iterators::detail::traversal_archetype_impl
+archetype	iterator_archetypes.hpp	/^    struct archetype$/;"	s	struct:boost::iterators::iterator_access_archetype_impl
+archetypes	iterator_archetypes.hpp	/^namespace archetypes$/;"	n	namespace:boost::iterators
+arrow_proxy	iterator_archetypes.hpp	/^  struct arrow_proxy$/;"	s	namespace:boost::iterators::detail
+assign_proxy	iterator_archetypes.hpp	/^  struct assign_proxy$/;"	s	namespace:boost::iterators::detail
+associated_types	iterator_facade.hpp	/^        > associated_types;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+base	detail/enable_if.hpp	/^      struct base$/;"	s	struct:boost::iterators::enabled
+base	iterator_adaptor.hpp	/^      Base const& base() const$/;"	f	class:boost::iterators::iterator_adaptor
+base	iterator_archetypes.hpp	/^      base;$/;"	t	struct:boost::iterators::detail::traversal_archetype_
+base	iterator_archetypes.hpp	/^    > base;$/;"	t	struct:boost::iterators::iterator_archetype
+base	iterator_facade.hpp	/^        base;$/;"	t	struct:boost::iterators::detail::iterator_facade_types
+base_reference	iterator_adaptor.hpp	/^      Base const& base_reference() const$/;"	f	class:boost::iterators::iterator_adaptor
+base_reference	iterator_adaptor.hpp	/^      Base& base_reference()$/;"	f	class:boost::iterators::iterator_adaptor
+base_type	function_input_iterator.hpp	/^        >::type base_type;$/;"	t	class:boost::iterators::function_input_iterator
+base_type	iterator_adaptor.hpp	/^      typedef Base base_type;$/;"	t	class:boost::iterators::iterator_adaptor
+base_type	iterator_facade.hpp	/^        typedef iterator_facade_base< Derived, Value, CategoryOrTraversal, Reference, Difference, true, false > base_type;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+bidirectional_readable_iterator_test	new_iterator_tests.hpp	/^void bidirectional_readable_iterator_test(Iterator i, T v1, T v2)$/;"	f	namespace:boost
+bidirectional_traversal_tag	iterator_categories.hpp	/^struct bidirectional_traversal_tag$/;"	s	namespace:boost::iterators
+bogus	iterator_archetypes.hpp	/^          struct bogus { }; \/\/ This use to be void, but that causes trouble for iterator_facade. Need more research. -JGS$/;"	s	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+boost	counting_iterator.hpp	/^namespace boost {$/;"	n
+boost	detail/any_conversion_eater.hpp	/^namespace boost {$/;"	n
+boost	detail/enable_if.hpp	/^namespace boost$/;"	n
+boost	detail/facade_iterator_category.hpp	/^namespace boost {$/;"	n
+boost	detail/minimum_category.hpp	/^namespace boost {$/;"	n
+boost	filter_iterator.hpp	/^namespace boost {$/;"	n
+boost	function_input_iterator.hpp	/^namespace boost {$/;"	n
+boost	indirect_iterator.hpp	/^namespace boost {$/;"	n
+boost	interoperable.hpp	/^namespace boost {$/;"	n
+boost	is_lvalue_iterator.hpp	/^namespace boost {$/;"	n
+boost	is_readable_iterator.hpp	/^namespace boost {$/;"	n
+boost	iterator_adaptor.hpp	/^namespace boost {$/;"	n
+boost	iterator_archetypes.hpp	/^namespace boost {$/;"	n
+boost	iterator_categories.hpp	/^namespace boost {$/;"	n
+boost	iterator_facade.hpp	/^namespace boost {$/;"	n
+boost	iterator_traits.hpp	/^namespace boost {$/;"	n
+boost	minimum_category.hpp	/^namespace boost {$/;"	n
+boost	new_iterator_tests.hpp	/^namespace boost {$/;"	n
+boost	permutation_iterator.hpp	/^namespace boost {$/;"	n
+boost	reverse_iterator.hpp	/^namespace boost {$/;"	n
+boost	transform_iterator.hpp	/^namespace boost {$/;"	n
+boost	zip_iterator.hpp	/^namespace boost {$/;"	n
+boost_concepts	iterator_concepts.hpp	/^namespace boost_concepts$/;"	n
+category	detail/facade_iterator_category.hpp	/^    >::type category;$/;"	t	struct:boost::iterators::detail::facade_iterator_category_impl
+choose_difference_type	iterator_facade.hpp	/^    struct choose_difference_type$/;"	s	namespace:boost::iterators::detail
+constant_lvalue_iterator_test	new_iterator_tests.hpp	/^void constant_lvalue_iterator_test(Iterator i, T v1)$/;"	f	namespace:boost
+conversion_eater	is_lvalue_iterator.hpp	/^      struct conversion_eater$/;"	s	struct:boost::iterators::detail::is_lvalue_iterator_impl
+convertible_type	iterator_archetypes.hpp	/^  struct convertible_type$/;"	s	namespace:boost::iterators::detail
+counting_iterator	counting_iterator.hpp	/^    counting_iterator() { }$/;"	f	class:boost::iterators::counting_iterator
+counting_iterator	counting_iterator.hpp	/^    counting_iterator(Incrementable x)$/;"	f	class:boost::iterators::counting_iterator
+counting_iterator	counting_iterator.hpp	/^    counting_iterator(counting_iterator const& rhs) : super_t(rhs.base()) {}$/;"	f	class:boost::iterators::counting_iterator
+counting_iterator	counting_iterator.hpp	/^class counting_iterator$/;"	c	namespace:boost::iterators
+counting_iterator_base	counting_iterator.hpp	/^  struct counting_iterator_base$/;"	s	namespace:boost::iterators::detail
+ctor_arg	iterator_archetypes.hpp	/^  struct ctor_arg {};$/;"	s	namespace:boost::iterators::detail
+cv_value_type	transform_iterator.hpp	/^        >::type cv_value_type;$/;"	t	struct:boost::iterators::detail::transform_iterator_base
+decrement	filter_iterator.hpp	/^      void decrement()$/;"	f	class:boost::iterators::filter_iterator
+decrement	iterator_adaptor.hpp	/^      void decrement()$/;"	f	class:boost::iterators::iterator_adaptor
+decrement	iterator_facade.hpp	/^      static void decrement(Facade& f)$/;"	f	class:boost::iterators::iterator_core_access
+decrement	reverse_iterator.hpp	/^      void decrement() { ++this->base_reference(); }$/;"	f	class:boost::iterators::reverse_iterator
+decrement	zip_iterator.hpp	/^    void decrement()$/;"	f	class:boost::iterators::zip_iterator
+decrement_iterator	zip_iterator.hpp	/^    struct decrement_iterator$/;"	s	namespace:boost::iterators::detail
+dereference	counting_iterator.hpp	/^    typename super_t::reference dereference() const$/;"	f	class:boost::iterators::counting_iterator
+dereference	function_input_iterator.hpp	/^                dereference() const {$/;"	f	class:boost::iterators::impl::function_input_iterator::Function
+dereference	function_input_iterator.hpp	/^                dereference() const {$/;"	f	class:boost::iterators::impl::function_pointer_input_iterator::function_types::result_type
+dereference	indirect_iterator.hpp	/^      typename super_t::reference dereference() const$/;"	f	class:boost::iterators::indirect_iterator
+dereference	iterator_adaptor.hpp	/^      typename super_t::reference dereference() const$/;"	f	class:boost::iterators::iterator_adaptor
+dereference	iterator_facade.hpp	/^      static typename Facade::reference dereference(Facade const& f)$/;"	f	class:boost::iterators::iterator_core_access
+dereference	permutation_iterator.hpp	/^    typename super_t::reference dereference() const$/;"	f	class:boost::iterators::permutation_iterator
+dereference	reverse_iterator.hpp	/^      typename super_t::reference dereference() const { return *boost::prior(this->base()); }$/;"	f	class:boost::iterators::reverse_iterator
+dereference	transform_iterator.hpp	/^    typename super_t::reference dereference() const$/;"	f	class:boost::iterators::transform_iterator
+dereference	zip_iterator.hpp	/^    typename super_t::reference dereference() const$/;"	f	class:boost::iterators::zip_iterator
+dereference_iterator	zip_iterator.hpp	/^    struct dereference_iterator$/;"	s	namespace:boost::iterators::detail
+dereferenceable	indirect_iterator.hpp	/^        typedef typename boost::detail::iterator_traits<Iter>::value_type dereferenceable;$/;"	t	struct:boost::iterators::detail::indirect_base
+derived	iterator_facade.hpp	/^        Derived const& derived() const$/;"	f	class:boost::iterators::detail::iterator_facade_base
+derived	iterator_facade.hpp	/^        Derived& derived()$/;"	f	class:boost::iterators::detail::iterator_facade_base
+derived	iterator_facade.hpp	/^      static I const& derived(iterator_facade<I,V,TC,R,D> const& facade)$/;"	f	class:boost::iterators::iterator_core_access
+derived	iterator_facade.hpp	/^      static I& derived(iterator_facade<I,V,TC,R,D>& facade)$/;"	f	class:boost::iterators::iterator_core_access
+detail	counting_iterator.hpp	/^namespace detail$/;"	n	namespace:boost::iterators
+detail	detail/any_conversion_eater.hpp	/^namespace detail {$/;"	n	namespace:boost::iterators
+detail	detail/facade_iterator_category.hpp	/^namespace detail {$/;"	n	namespace:boost::iterators
+detail	detail/minimum_category.hpp	/^namespace detail {$/;"	n	namespace:boost
+detail	filter_iterator.hpp	/^  namespace detail$/;"	n	namespace:boost::iterators
+detail	indirect_iterator.hpp	/^  namespace detail$/;"	n	namespace:boost::iterators
+detail	is_lvalue_iterator.hpp	/^namespace detail$/;"	n	namespace:boost::iterators
+detail	is_readable_iterator.hpp	/^namespace detail$/;"	n	namespace:boost::iterators
+detail	iterator_adaptor.hpp	/^  namespace detail$/;"	n	namespace:boost::iterators
+detail	iterator_archetypes.hpp	/^namespace detail$/;"	n	namespace:boost::iterators
+detail	iterator_categories.hpp	/^namespace detail {$/;"	n	namespace:boost
+detail	iterator_categories.hpp	/^namespace detail {$/;"	n	namespace:boost::iterators
+detail	iterator_categories.hpp	/^namespace detail$/;"	n	namespace:boost::iterators
+detail	iterator_concepts.hpp	/^  namespace detail$/;"	n	namespace:boost_concepts
+detail	iterator_facade.hpp	/^  namespace detail {$/;"	n	namespace:boost::iterators
+detail	iterator_facade.hpp	/^  namespace detail$/;"	n	namespace:boost::iterators
+detail	minimum_category.hpp	/^namespace detail {$/;"	n	namespace:boost::iterators
+detail	transform_iterator.hpp	/^  namespace detail$/;"	n	namespace:boost::iterators
+detail	zip_iterator.hpp	/^  namespace detail$/;"	n	namespace:boost::iterators
+difference	counting_iterator.hpp	/^      >::type difference;$/;"	t	struct:boost::iterators::detail::counting_iterator_base
+difference_type	counting_iterator.hpp	/^    typedef typename super_t::difference_type difference_type;$/;"	t	class:boost::iterators::counting_iterator
+difference_type	iterator_archetypes.hpp	/^          typedef bogus difference_type;$/;"	t	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+difference_type	iterator_archetypes.hpp	/^          typedef std::ptrdiff_t difference_type;$/;"	t	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+difference_type	iterator_archetypes.hpp	/^    typedef typename base::difference_type difference_type;$/;"	t	struct:boost::iterators::iterator_archetype
+difference_type	iterator_facade.hpp	/^        typedef Difference difference_type;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+difference_type	iterator_facade.hpp	/^        typedef typename base_type::difference_type difference_type;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+difference_type	zip_iterator.hpp	/^            >::difference_type difference_type;$/;"	t	struct:boost::iterators::detail::zip_iterator_base
+distance	counting_iterator.hpp	/^      static Difference distance(Incrementable1 x, Incrementable2 y)$/;"	f	struct:boost::iterators::detail::iterator_distance
+distance	counting_iterator.hpp	/^      static Difference distance(Incrementable1 x, Incrementable2 y)$/;"	f	struct:boost::iterators::detail::number_distance
+distance_from	iterator_facade.hpp	/^      static typename Facade1::difference_type distance_from($/;"	f	class:boost::iterators::iterator_core_access
+distance_from	iterator_facade.hpp	/^      static typename Facade2::difference_type distance_from($/;"	f	class:boost::iterators::iterator_core_access
+distance_to	counting_iterator.hpp	/^    distance_to(counting_iterator<OtherIncrementable, CategoryOrTraversal, Difference> const& y) const$/;"	f	class:boost::iterators::counting_iterator
+distance_to	iterator_adaptor.hpp	/^      typename super_t::difference_type distance_to($/;"	f	class:boost::iterators::iterator_adaptor
+distance_to	reverse_iterator.hpp	/^      distance_to(reverse_iterator<OtherIterator> const& y) const$/;"	f	class:boost::iterators::reverse_iterator
+distance_to	zip_iterator.hpp	/^      typename super_t::difference_type distance_to($/;"	f	class:boost::iterators::zip_iterator
+enable_if	detail/enable_if.hpp	/^    struct enable_if$/;"	s	namespace:boost::iterators
+enable_if_convertible	iterator_adaptor.hpp	/^  struct enable_if_convertible$/;"	s	namespace:boost::iterators
+enable_if_interoperable	iterator_facade.hpp	/^    struct enable_if_interoperable :$/;"	s	namespace:boost::iterators::detail
+enable_if_interoperable_and_random_access_traversal	iterator_facade.hpp	/^    struct enable_if_interoperable_and_random_access_traversal :$/;"	s	namespace:boost::iterators::detail
+enabled	detail/enable_if.hpp	/^    struct enabled$/;"	s	namespace:boost::iterators
+enabled	detail/enable_if.hpp	/^    struct enabled<false>$/;"	s	namespace:boost::iterators
+end	filter_iterator.hpp	/^      Iterator end() const { return m_end; }$/;"	f	class:boost::iterators::filter_iterator
+equal	function_input_iterator.hpp	/^            bool equal(function_input_iterator const & other) const {$/;"	f	class:boost::iterators::impl::function_input_iterator
+equal	function_input_iterator.hpp	/^            bool equal(function_pointer_input_iterator const & other) const {$/;"	f	class:boost::iterators::impl::function_pointer_input_iterator
+equal	iterator_adaptor.hpp	/^      bool equal(iterator_adaptor<OtherDerived, OtherIterator, V, C, R, D> const& x) const$/;"	f	class:boost::iterators::iterator_adaptor
+equal	iterator_facade.hpp	/^      static bool equal(Facade1 const& f1, Facade2 const& f2, mpl::false_)$/;"	f	class:boost::iterators::iterator_core_access
+equal	iterator_facade.hpp	/^      static bool equal(Facade1 const& f1, Facade2 const& f2, mpl::true_)$/;"	f	class:boost::iterators::iterator_core_access
+equal	zip_iterator.hpp	/^    bool equal(const zip_iterator<OtherIteratorTuple>& other) const$/;"	f	class:boost::iterators::zip_iterator
+f	function_input_iterator.hpp	/^            Function * f;$/;"	m	class:boost::iterators::impl::function_input_iterator
+f	function_input_iterator.hpp	/^            Function f;$/;"	m	class:boost::iterators::impl::function_pointer_input_iterator
+facade_iterator_category	detail/facade_iterator_category.hpp	/^struct facade_iterator_category$/;"	s	namespace:boost::iterators::detail
+facade_iterator_category_impl	detail/facade_iterator_category.hpp	/^struct facade_iterator_category_impl$/;"	s	namespace:boost::iterators::detail
+filter_iterator	filter_iterator.hpp	/^      filter_iterator($/;"	f	class:boost::iterators::filter_iterator
+filter_iterator	filter_iterator.hpp	/^      filter_iterator() { }$/;"	f	class:boost::iterators::filter_iterator
+filter_iterator	filter_iterator.hpp	/^      filter_iterator(Iterator x, Iterator end_ = Iterator())$/;"	f	class:boost::iterators::filter_iterator
+filter_iterator	filter_iterator.hpp	/^      filter_iterator(Predicate f, Iterator x, Iterator end_ = Iterator())$/;"	f	class:boost::iterators::filter_iterator
+filter_iterator	filter_iterator.hpp	/^  class filter_iterator$/;"	c	namespace:boost::iterators
+filter_iterator_base	filter_iterator.hpp	/^    struct filter_iterator_base$/;"	s	namespace:boost::iterators::detail
+forward_readable_iterator_test	new_iterator_tests.hpp	/^void forward_readable_iterator_test(Iterator i, Iterator j, T val1, T val2)$/;"	f	namespace:boost
+forward_swappable_iterator_test	new_iterator_tests.hpp	/^void forward_swappable_iterator_test(Iterator i, Iterator j, T val1, T val2)$/;"	f	namespace:boost
+forward_traversal_tag	iterator_categories.hpp	/^struct forward_traversal_tag$/;"	s	namespace:boost::iterators
+function_input_iterator	function_input_iterator.hpp	/^            function_input_iterator() {}$/;"	f	class:boost::iterators::impl::function_input_iterator
+function_input_iterator	function_input_iterator.hpp	/^            function_input_iterator(Function & f_, Input state_ = Input())$/;"	f	class:boost::iterators::impl::function_input_iterator
+function_input_iterator	function_input_iterator.hpp	/^        class function_input_iterator$/;"	c	namespace:boost::iterators::impl
+function_input_iterator	function_input_iterator.hpp	/^        function_input_iterator(Function & f, Input i)$/;"	f	class:boost::iterators::function_input_iterator
+function_input_iterator	function_input_iterator.hpp	/^    class function_input_iterator$/;"	c	namespace:boost::iterators
+function_pointer_input_iterator	function_input_iterator.hpp	/^            function_pointer_input_iterator() {}$/;"	f	class:boost::iterators::impl::function_pointer_input_iterator
+function_pointer_input_iterator	function_input_iterator.hpp	/^            function_pointer_input_iterator(Function &f_, Input state_ = Input())$/;"	f	class:boost::iterators::impl::function_pointer_input_iterator
+function_pointer_input_iterator	function_input_iterator.hpp	/^        class function_pointer_input_iterator$/;"	c	namespace:boost::iterators::impl
+function_reference_input_iterator	function_input_iterator.hpp	/^            function_reference_input_iterator(Function & f_, Input state_ = Input())$/;"	f	class:boost::iterators::impl::function_reference_input_iterator
+function_reference_input_iterator	function_input_iterator.hpp	/^        class function_reference_input_iterator$/;"	c	namespace:boost::iterators::impl
+functor	transform_iterator.hpp	/^    UnaryFunc functor() const$/;"	f	class:boost::iterators::transform_iterator
+get_iterator_tuple	zip_iterator.hpp	/^    const IteratorTuple& get_iterator_tuple() const$/;"	f	class:boost::iterators::zip_iterator
+has_access	iterator_archetypes.hpp	/^  struct has_access$/;"	s	namespace:boost::iterators::archetypes
+i	iterator_concepts.hpp	/^      Iterator i;$/;"	m	struct:boost_concepts::WritableIterator
+ia_dflt_help	iterator_adaptor.hpp	/^    struct ia_dflt_help$/;"	s	namespace:boost::iterators::detail
+impl	function_input_iterator.hpp	/^    namespace impl {$/;"	n	namespace:boost::iterators
+increment	filter_iterator.hpp	/^      void increment()$/;"	f	class:boost::iterators::filter_iterator
+increment	function_input_iterator.hpp	/^            void increment() {$/;"	f	class:boost::iterators::impl::function_input_iterator
+increment	function_input_iterator.hpp	/^            void increment() {$/;"	f	class:boost::iterators::impl::function_pointer_input_iterator
+increment	iterator_adaptor.hpp	/^      void increment() { ++m_iterator; }$/;"	f	class:boost::iterators::iterator_adaptor
+increment	iterator_facade.hpp	/^      static void increment(Facade& f)$/;"	f	class:boost::iterators::iterator_core_access
+increment	reverse_iterator.hpp	/^      void increment() { --this->base_reference(); }$/;"	f	class:boost::iterators::reverse_iterator
+increment	zip_iterator.hpp	/^    void increment()$/;"	f	class:boost::iterators::zip_iterator
+increment_iterator	zip_iterator.hpp	/^    struct increment_iterator$/;"	s	namespace:boost::iterators::detail
+incrementable_traversal_tag	iterator_categories.hpp	/^struct incrementable_traversal_tag$/;"	s	namespace:boost::iterators
+indirect_base	indirect_iterator.hpp	/^    struct indirect_base$/;"	s	namespace:boost::iterators::detail
+indirect_base	indirect_iterator.hpp	/^    struct indirect_base<int, int, int, int, int> {};$/;"	s	namespace:boost::iterators::detail
+indirect_iterator	indirect_iterator.hpp	/^      indirect_iterator($/;"	f	class:boost::iterators::indirect_iterator
+indirect_iterator	indirect_iterator.hpp	/^      indirect_iterator() {}$/;"	f	class:boost::iterators::indirect_iterator
+indirect_iterator	indirect_iterator.hpp	/^      indirect_iterator(Iterator iter)$/;"	f	class:boost::iterators::indirect_iterator
+indirect_iterator	indirect_iterator.hpp	/^  class indirect_iterator$/;"	c	namespace:boost::iterators
+infinite	function_input_iterator.hpp	/^    struct infinite {$/;"	s	namespace:boost::iterators
+inner	minimum_category.hpp	/^    typedef typename outer::template apply<T1,T2> inner;$/;"	t	struct:boost::iterators::minimum_category
+input_output_iterator_tag	detail/facade_iterator_category.hpp	/^struct input_output_iterator_tag$/;"	s	namespace:boost::iterators::detail
+interop_rand_access_constraints	iterator_concepts.hpp	/^    void interop_rand_access_constraints($/;"	f	namespace:boost_concepts::detail
+interop_single_pass_constraints	iterator_concepts.hpp	/^    void interop_single_pass_constraints(Iterator1 const& i1, Iterator2 const& i2)$/;"	f	namespace:boost_concepts::detail
+is_convertible	iterator_adaptor.hpp	/^struct is_convertible<use_default,To>$/;"	s	namespace:boost
+is_interoperable	interoperable.hpp	/^  struct is_interoperable$/;"	s	namespace:boost::iterators
+is_iterator_category	detail/facade_iterator_category.hpp	/^struct is_iterator_category$/;"	s	namespace:boost::iterators::detail
+is_iterator_traversal	detail/facade_iterator_category.hpp	/^struct is_iterator_traversal$/;"	s	namespace:boost::iterators::detail
+is_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_lvalue_iterator_impl$/;"	s	namespace:boost::iterators::detail
+is_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_lvalue_iterator_impl<const void>$/;"	s	namespace:boost::iterators::detail
+is_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_lvalue_iterator_impl<const volatile void>$/;"	s	namespace:boost::iterators::detail
+is_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_lvalue_iterator_impl<void>$/;"	s	namespace:boost::iterators::detail
+is_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_lvalue_iterator_impl<volatile void>$/;"	s	namespace:boost::iterators::detail
+is_non_const_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_non_const_lvalue_iterator_impl$/;"	s	namespace:boost::iterators::detail
+is_non_proxy_reference	iterator_facade.hpp	/^    struct is_non_proxy_reference$/;"	s	namespace:boost::iterators::detail
+is_non_proxy_reference_impl	iterator_facade.hpp	/^    struct is_non_proxy_reference_impl$/;"	s	namespace:boost::iterators::detail
+is_numeric	counting_iterator.hpp	/^  struct is_numeric$/;"	s	namespace:boost::iterators::detail
+is_numeric	counting_iterator.hpp	/^  struct is_numeric< ::boost::long_long_type>$/;"	s	namespace:boost::iterators::detail
+is_numeric	counting_iterator.hpp	/^  struct is_numeric< ::boost::ulong_long_type>$/;"	s	namespace:boost::iterators::detail
+is_numeric	counting_iterator.hpp	/^  struct is_numeric<wchar_t>$/;"	s	namespace:boost::iterators::detail
+is_numeric_impl	counting_iterator.hpp	/^  struct is_numeric_impl$/;"	s	namespace:boost::iterators::detail
+is_readable_iterator_impl	is_readable_iterator.hpp	/^  struct is_readable_iterator_impl$/;"	s	namespace:boost::iterators::detail
+is_readable_iterator_impl	is_readable_iterator.hpp	/^  struct is_readable_iterator_impl<const void>$/;"	s	namespace:boost::iterators::detail
+is_readable_iterator_impl	is_readable_iterator.hpp	/^  struct is_readable_iterator_impl<const volatile void>$/;"	s	namespace:boost::iterators::detail
+is_readable_iterator_impl	is_readable_iterator.hpp	/^  struct is_readable_iterator_impl<void>$/;"	s	namespace:boost::iterators::detail
+is_readable_iterator_impl	is_readable_iterator.hpp	/^  struct is_readable_iterator_impl<volatile void>$/;"	s	namespace:boost::iterators::detail
+is_readable_iterator_impl2	is_readable_iterator.hpp	/^  struct is_readable_iterator_impl2$/;"	s	namespace:boost::iterators::detail
+is_readable_lvalue_iterator_impl	is_lvalue_iterator.hpp	/^  struct is_readable_lvalue_iterator_impl$/;"	s	namespace:boost::iterators::detail
+is_traversal_at_least	iterator_facade.hpp	/^    struct is_traversal_at_least :$/;"	s	namespace:boost::iterators::detail
+iterator_access_archetype	iterator_archetypes.hpp	/^struct iterator_access_archetype$/;"	s	namespace:boost::iterators
+iterator_access_archetype_impl	iterator_archetypes.hpp	/^struct iterator_access_archetype_impl$/;"	s	namespace:boost::iterators
+iterator_access_archetype_impl	iterator_archetypes.hpp	/^struct iterator_access_archetype_impl<$/;"	s	namespace:boost::iterators
+iterator_access_archetype_impl	iterator_archetypes.hpp	/^struct iterator_access_archetype_impl<archetypes::readable_lvalue_iterator_t>$/;"	s	namespace:boost::iterators
+iterator_access_archetype_impl	iterator_archetypes.hpp	/^struct iterator_access_archetype_impl<archetypes::writable_lvalue_iterator_t>$/;"	s	namespace:boost::iterators
+iterator_adaptor	iterator_adaptor.hpp	/^      explicit iterator_adaptor(Base const &iter)$/;"	f	class:boost::iterators::iterator_adaptor
+iterator_adaptor	iterator_adaptor.hpp	/^      iterator_adaptor() {}$/;"	f	class:boost::iterators::iterator_adaptor
+iterator_adaptor	iterator_adaptor.hpp	/^  class iterator_adaptor$/;"	c	namespace:boost::iterators
+iterator_adaptor_	iterator_adaptor.hpp	/^      typedef iterator_adaptor<Derived,Base,Value,Traversal,Reference,Difference> iterator_adaptor_;$/;"	t	class:boost::iterators::iterator_adaptor
+iterator_adaptor_assert_traversal	iterator_adaptor.hpp	/^    inline void iterator_adaptor_assert_traversal ()$/;"	f	namespace:boost::iterators::detail
+iterator_adaptor_base	iterator_adaptor.hpp	/^    struct iterator_adaptor_base$/;"	s	namespace:boost::iterators::detail
+iterator_archetype	iterator_archetypes.hpp	/^    iterator_archetype() { }$/;"	f	struct:boost::iterators::iterator_archetype
+iterator_archetype	iterator_archetypes.hpp	/^    iterator_archetype(iterator_archetype const& x)$/;"	f	struct:boost::iterators::iterator_archetype
+iterator_archetype	iterator_archetypes.hpp	/^struct iterator_archetype$/;"	s	namespace:boost::iterators
+iterator_archetype_base	iterator_archetypes.hpp	/^  struct iterator_archetype_base$/;"	s	namespace:boost::iterators::detail
+iterator_category	iterator_archetypes.hpp	/^      >::type iterator_category;$/;"	t	struct:boost::iterators::detail::iterator_archetype_base
+iterator_category	iterator_archetypes.hpp	/^    typedef typename base::iterator_category iterator_category;$/;"	t	struct:boost::iterators::iterator_archetype
+iterator_category	iterator_facade.hpp	/^        >::type iterator_category;$/;"	t	struct:boost::iterators::detail::iterator_facade_types
+iterator_category	iterator_facade.hpp	/^        typedef typename associated_types::iterator_category iterator_category;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+iterator_category	iterator_traits.hpp	/^struct iterator_category$/;"	s	namespace:boost::iterators
+iterator_category_to_traversal	iterator_categories.hpp	/^struct iterator_category_to_traversal$/;"	s	namespace:boost::iterators
+iterator_category_with_traversal	detail/facade_iterator_category.hpp	/^struct iterator_category_with_traversal$/;"	s	namespace:boost::iterators::detail
+iterator_core_access	iterator_facade.hpp	/^  class iterator_core_access$/;"	c	namespace:boost::iterators
+iterator_difference	iterator_traits.hpp	/^struct iterator_difference$/;"	s	namespace:boost::iterators
+iterator_distance	counting_iterator.hpp	/^  struct iterator_distance$/;"	s	namespace:boost::iterators::detail
+iterator_facade	iterator_facade.hpp	/^  class iterator_facade :$/;"	c	namespace:boost::iterators
+iterator_facade_	iterator_facade.hpp	/^      typedef iterator_facade<Derived,Value,CategoryOrTraversal,Reference,Difference> iterator_facade_;$/;"	t	class:boost::iterators::iterator_facade
+iterator_facade_base	iterator_facade.hpp	/^    class iterator_facade_base< Derived, Value, CategoryOrTraversal, Reference, Difference, false, false >$/;"	c	namespace:boost::iterators::detail
+iterator_facade_base	iterator_facade.hpp	/^    class iterator_facade_base< Derived, Value, CategoryOrTraversal, Reference, Difference, true, false > :$/;"	c	namespace:boost::iterators::detail
+iterator_facade_base	iterator_facade.hpp	/^    class iterator_facade_base< Derived, Value, CategoryOrTraversal, Reference, Difference, true, true > :$/;"	c	namespace:boost::iterators::detail
+iterator_facade_default_category	detail/facade_iterator_category.hpp	/^struct iterator_facade_default_category$/;"	s	namespace:boost::iterators::detail
+iterator_facade_types	iterator_facade.hpp	/^    struct iterator_facade_types$/;"	s	namespace:boost::iterators::detail
+iterator_pointer	iterator_traits.hpp	/^struct iterator_pointer$/;"	s	namespace:boost::iterators
+iterator_reference	iterator_traits.hpp	/^struct iterator_reference$/;"	s	namespace:boost::iterators
+iterator_reference	zip_iterator.hpp	/^    struct iterator_reference$/;"	s	namespace:boost::iterators::detail
+iterator_reference	zip_iterator.hpp	/^    struct iterator_reference<mpl::_1>$/;"	s	namespace:boost::iterators::detail
+iterator_traversal	iterator_categories.hpp	/^struct iterator_traversal$/;"	s	namespace:boost::iterators
+iterator_traversal	iterator_categories.hpp	/^struct iterator_traversal<mpl::_1>$/;"	s	namespace:boost::iterators
+iterator_traversal	iterator_categories.hpp	/^struct iterator_traversal<mpl::_>$/;"	s	namespace:boost::iterators
+iterator_value	iterator_traits.hpp	/^struct iterator_value$/;"	s	namespace:boost::iterators
+iterator_writability_disabled	detail/facade_iterator_category.hpp	/^struct iterator_writability_disabled$/;"	s	namespace:boost::iterators::detail
+iterators	counting_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	detail/any_conversion_eater.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	detail/enable_if.hpp	/^  namespace iterators$/;"	n	namespace:boost
+iterators	detail/facade_iterator_category.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	filter_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	function_input_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	indirect_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	interoperable.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	is_lvalue_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	is_readable_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	iterator_adaptor.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	iterator_archetypes.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	iterator_categories.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	iterator_facade.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	iterator_traits.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	minimum_category.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	permutation_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	reverse_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	transform_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+iterators	zip_iterator.hpp	/^namespace iterators {$/;"	n	namespace:boost
+lvalue_iterator_bit	iterator_archetypes.hpp	/^    , lvalue_iterator_bit = 8$/;"	e	enum:boost::iterators::archetypes::__anon1
+lvalue_iterator_t	iterator_archetypes.hpp	/^  typedef mpl::int_<lvalue_iterator_bit>::type lvalue_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+m_elt_iter	permutation_iterator.hpp	/^    ElementIterator m_elt_iter;$/;"	m	class:boost::iterators::permutation_iterator
+m_end	filter_iterator.hpp	/^      Iterator m_end;$/;"	m	class:boost::iterators::filter_iterator
+m_f	transform_iterator.hpp	/^    UnaryFunc m_f;$/;"	m	class:boost::iterators::transform_iterator
+m_iter	iterator_facade.hpp	/^        Iterator m_iter;$/;"	m	class:boost::iterators::detail::operator_brackets_proxy
+m_iterator	iterator_adaptor.hpp	/^      Base m_iterator;$/;"	m	class:boost::iterators::iterator_adaptor
+m_iterator_tuple	zip_iterator.hpp	/^    IteratorTuple m_iterator_tuple;$/;"	m	class:boost::iterators::zip_iterator
+m_predicate	filter_iterator.hpp	/^      Predicate m_predicate;$/;"	m	class:boost::iterators::filter_iterator
+m_ref	iterator_facade.hpp	/^            Reference m_ref;$/;"	m	struct:boost::iterators::detail::operator_arrow_dispatch::proxy
+m_step	zip_iterator.hpp	/^      DiffType m_step;$/;"	m	class:boost::iterators::detail::advance_iterator
+make_counting_iterator	counting_iterator.hpp	/^make_counting_iterator(Incrementable x)$/;"	f	namespace:boost::iterators
+make_filter_iterator	filter_iterator.hpp	/^  make_filter_iterator($/;"	f	namespace:boost::iterators
+make_filter_iterator	filter_iterator.hpp	/^  make_filter_iterator(Predicate f, Iterator x, Iterator end = Iterator())$/;"	f	namespace:boost::iterators
+make_function_input_iterator	function_input_iterator.hpp	/^        make_function_input_iterator(Function & f, Input state) {$/;"	f	namespace:boost::iterators
+make_function_input_iterator	function_input_iterator.hpp	/^        make_function_input_iterator(Function * f, Input state) {$/;"	f	namespace:boost::iterators
+make_indirect_iterator	indirect_iterator.hpp	/^  indirect_iterator<Iter,Traits> make_indirect_iterator(Iter x, Traits* = 0)$/;"	f	namespace:boost::iterators
+make_indirect_iterator	indirect_iterator.hpp	/^  indirect_iterator<Iter> make_indirect_iterator(Iter x)$/;"	f	namespace:boost::iterators
+make_operator_brackets_result	iterator_facade.hpp	/^    operator_brackets_proxy<Iterator> make_operator_brackets_result(Iterator const& iter, mpl::true_)$/;"	f	namespace:boost::iterators::detail
+make_operator_brackets_result	iterator_facade.hpp	/^    typename Iterator::value_type make_operator_brackets_result(Iterator const& iter, mpl::false_)$/;"	f	namespace:boost::iterators::detail
+make_permutation_iterator	permutation_iterator.hpp	/^make_permutation_iterator( ElementIterator e, IndexIterator i )$/;"	f	namespace:boost::iterators
+make_reverse_iterator	reverse_iterator.hpp	/^  inline reverse_iterator<BidirectionalIterator> make_reverse_iterator(BidirectionalIterator x)$/;"	f	namespace:boost::iterators
+make_transform_iterator	transform_iterator.hpp	/^  make_transform_iterator(Iterator it)$/;"	f	namespace:boost::iterators
+make_transform_iterator	transform_iterator.hpp	/^  make_transform_iterator(Iterator it, Return (*fun)(Argument))$/;"	f	namespace:boost::iterators
+make_transform_iterator	transform_iterator.hpp	/^  make_transform_iterator(Iterator it, UnaryFunc fun)$/;"	f	namespace:boost::iterators
+make_zip_iterator	zip_iterator.hpp	/^  make_zip_iterator(IteratorTuple t)$/;"	f	namespace:boost::iterators
+minimum_category	minimum_category.hpp	/^struct minimum_category$/;"	s	namespace:boost::iterators
+minimum_category	minimum_category.hpp	/^struct minimum_category<mpl::_1,mpl::_2>$/;"	s	namespace:boost::iterators
+minimum_category_impl	minimum_category.hpp	/^struct minimum_category_impl<false,false>$/;"	s	namespace:boost::iterators::detail
+minimum_category_impl	minimum_category.hpp	/^struct minimum_category_impl<false,true>$/;"	s	namespace:boost::iterators::detail
+minimum_category_impl	minimum_category.hpp	/^struct minimum_category_impl<true,false>$/;"	s	namespace:boost::iterators::detail
+minimum_category_impl	minimum_category.hpp	/^struct minimum_category_impl<true,true>$/;"	s	namespace:boost::iterators::detail
+minimum_traversal_category_in_iterator_tuple	zip_iterator.hpp	/^    struct minimum_traversal_category_in_iterator_tuple$/;"	s	namespace:boost::iterators::detail
+my_traversal	iterator_adaptor.hpp	/^      >::type my_traversal;$/;"	t	class:boost::iterators::iterator_adaptor
+no_operator_brackets	iterator_archetypes.hpp	/^  struct no_operator_brackets {};$/;"	s	namespace:boost::iterators::detail
+no_traversal_tag	iterator_categories.hpp	/^struct no_traversal_tag {};$/;"	s	namespace:boost::iterators
+non_const_lvalue_iterator_test	new_iterator_tests.hpp	/^void non_const_lvalue_iterator_test(Iterator i, T v1, T v2)$/;"	f	namespace:boost
+not_an_lvalue	is_lvalue_iterator.hpp	/^  struct not_an_lvalue {};$/;"	s	namespace:boost::iterators::detail
+number_distance	counting_iterator.hpp	/^  struct number_distance$/;"	s	namespace:boost::iterators::detail
+numeric_difference	counting_iterator.hpp	/^  struct numeric_difference$/;"	s	namespace:boost::iterators::detail
+old_category_to_traversal	iterator_categories.hpp	/^  struct old_category_to_traversal$/;"	s	namespace:boost::iterators::detail
+operator ()	zip_iterator.hpp	/^        typename apply<Iterator>::type operator()(Iterator const& it)$/;"	f	struct:boost::iterators::detail::dereference_iterator
+operator ()	zip_iterator.hpp	/^      void operator()(Iterator& it) const$/;"	f	class:boost::iterators::detail::advance_iterator
+operator ()	zip_iterator.hpp	/^      void operator()(Iterator& it)$/;"	f	struct:boost::iterators::detail::decrement_iterator
+operator ()	zip_iterator.hpp	/^      void operator()(Iterator& it)$/;"	f	struct:boost::iterators::detail::increment_iterator
+operator *	iterator_archetypes.hpp	/^        Value& operator*() const { return static_object<Value>::get(); }$/;"	f	struct:boost::iterators::iterator_access_archetype_impl::archetype
+operator *	iterator_archetypes.hpp	/^        detail::assign_proxy<Value> operator*() const { return detail::assign_proxy<Value>(); }$/;"	f	struct:boost::iterators::iterator_access_archetype_impl::archetype
+operator *	iterator_archetypes.hpp	/^        detail::read_write_proxy<Value> operator*() const { return detail::read_write_proxy<Value>(); }$/;"	f	struct:boost::iterators::iterator_access_archetype_impl::archetype
+operator *	iterator_archetypes.hpp	/^        value_type operator*() const { return static_object<value_type>::get(); }$/;"	f	struct:boost::iterators::iterator_access_archetype_impl::archetype
+operator *	iterator_facade.hpp	/^        operator*() const$/;"	f	class:boost::iterators::detail::postfix_increment_proxy
+operator *	iterator_facade.hpp	/^        operator*() const$/;"	f	class:boost::iterators::detail::writable_postfix_increment_proxy
+operator *	iterator_facade.hpp	/^        reference operator*() const$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator +	iterator_archetypes.hpp	/^  Derived& operator+(std::ptrdiff_t,$/;"	f	namespace:boost::iterators::detail
+operator +	iterator_archetypes.hpp	/^  Derived& operator+(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator ++	function_input_iterator.hpp	/^        infinite & operator++() { return *this; }$/;"	f	struct:boost::iterators::infinite
+operator ++	function_input_iterator.hpp	/^        infinite & operator++(int) { return *this; }$/;"	f	struct:boost::iterators::infinite
+operator ++	iterator_archetypes.hpp	/^          Derived  operator++(int) const { return (Derived&)static_object<Derived>::get(); }$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+operator ++	iterator_archetypes.hpp	/^          Derived& operator++() { return (Derived&)static_object<Derived>::get(); }$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+operator ++	iterator_facade.hpp	/^        Derived& operator++()$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator ++	iterator_facade.hpp	/^  operator++($/;"	f	namespace:boost::iterators
+operator +=	iterator_archetypes.hpp	/^          Derived& operator+=(std::ptrdiff_t) { return static_object<Derived>::get(); }$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+operator +=	iterator_facade.hpp	/^        Derived& operator+=(difference_type n)$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator -	iterator_archetypes.hpp	/^  Derived& operator-(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator -	iterator_archetypes.hpp	/^  std::ptrdiff_t operator-(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator -	iterator_facade.hpp	/^        Derived operator-(difference_type x) const$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator --	iterator_archetypes.hpp	/^          Derived  operator--(int) const { return static_object<Derived>::get(); }$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+operator --	iterator_archetypes.hpp	/^          Derived& operator--() { return static_object<Derived>::get(); }$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+operator --	iterator_facade.hpp	/^        Derived operator--(int)$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator --	iterator_facade.hpp	/^        Derived& operator--()$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator -=	iterator_archetypes.hpp	/^          Derived& operator-=(std::ptrdiff_t) { return static_object<Derived>::get(); }$/;"	f	struct:boost::iterators::detail::traversal_archetype_impl::archetype
+operator -=	iterator_facade.hpp	/^        Derived& operator-=(difference_type n)$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator ->	iterator_archetypes.hpp	/^        Value* operator->() const { return 0; }$/;"	f	struct:boost::iterators::iterator_access_archetype_impl::archetype
+operator ->	iterator_archetypes.hpp	/^        detail::arrow_proxy<Value> operator->() const { return detail::arrow_proxy<Value>(); }$/;"	f	struct:boost::iterators::iterator_access_archetype_impl::archetype
+operator ->	iterator_archetypes.hpp	/^      T const* operator->() const { return 0; }$/;"	f	struct:boost::iterators::detail::arrow_proxy
+operator ->	iterator_facade.hpp	/^            Reference* operator->() { return boost::addressof(m_ref); }$/;"	f	struct:boost::iterators::detail::operator_arrow_dispatch::proxy
+operator ->	iterator_facade.hpp	/^        pointer operator->() const$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator <	iterator_archetypes.hpp	/^  bool operator<(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator <=	iterator_archetypes.hpp	/^  bool operator<=(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator =	iterator_archetypes.hpp	/^      assign_proxy& operator=(T) { return *this; }$/;"	f	struct:boost::iterators::detail::assign_proxy
+operator =	iterator_archetypes.hpp	/^      read_write_proxy& operator=(T) { return *this; }$/;"	f	struct:boost::iterators::detail::read_write_proxy
+operator =	iterator_archetypes.hpp	/^    iterator_archetype& operator=(iterator_archetype const&)$/;"	f	struct:boost::iterators::iterator_archetype
+operator =	iterator_facade.hpp	/^        T const& operator=(T const& x) const$/;"	f	class:boost::iterators::detail::writable_postfix_increment_proxy
+operator =	iterator_facade.hpp	/^        T& operator=(T& x) const$/;"	f	class:boost::iterators::detail::writable_postfix_increment_proxy
+operator =	iterator_facade.hpp	/^        operator_brackets_proxy& operator=(value_type const& val)$/;"	f	class:boost::iterators::detail::operator_brackets_proxy
+operator ==	function_input_iterator.hpp	/^        bool operator==(infinite &) const { return false; };$/;"	f	struct:boost::iterators::infinite
+operator ==	function_input_iterator.hpp	/^        bool operator==(infinite const &) const { return false; };$/;"	f	struct:boost::iterators::infinite
+operator ==	iterator_archetypes.hpp	/^  bool operator==(traversal_archetype_<Derived, Value, single_pass_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator >	iterator_archetypes.hpp	/^  bool operator>(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator >=	iterator_archetypes.hpp	/^  bool operator>=(traversal_archetype_<Derived, Value, random_access_traversal_tag> const&,$/;"	f	namespace:boost::iterators::detail
+operator Iterator const&	iterator_facade.hpp	/^        operator Iterator const&() const$/;"	f	class:boost::iterators::detail::writable_postfix_increment_proxy
+operator Reference*	iterator_facade.hpp	/^            operator Reference*() { return boost::addressof(m_ref); }$/;"	f	struct:boost::iterators::detail::operator_arrow_dispatch::proxy
+operator T	iterator_archetypes.hpp	/^      operator T() { return static_object<T>::get(); }$/;"	f	struct:boost::iterators::detail::read_proxy
+operator []	iterator_archetypes.hpp	/^      read_proxy<ValueType> operator[](std::ptrdiff_t n) const { return read_proxy<ValueType>(); }$/;"	f	struct:boost::iterators::detail::readable_operator_brackets
+operator []	iterator_archetypes.hpp	/^      read_write_proxy<ValueType> operator[](std::ptrdiff_t n) const { return read_write_proxy<ValueType>(); }$/;"	f	struct:boost::iterators::detail::writable_operator_brackets
+operator []	iterator_facade.hpp	/^        operator[](difference_type n) const$/;"	f	class:boost::iterators::detail::iterator_facade_base
+operator reference	iterator_facade.hpp	/^        operator reference() const$/;"	f	class:boost::iterators::detail::operator_brackets_proxy
+operator std::output_iterator_tag	detail/facade_iterator_category.hpp	/^    operator std::output_iterator_tag() const$/;"	f	struct:boost::iterators::detail::input_output_iterator_tag
+operator value_type&	iterator_facade.hpp	/^        operator value_type&() const$/;"	f	class:boost::iterators::detail::writable_postfix_increment_proxy
+operator_arrow_dispatch	iterator_facade.hpp	/^    struct operator_arrow_dispatch \/\/ proxy references$/;"	s	namespace:boost::iterators::detail
+operator_arrow_dispatch	iterator_facade.hpp	/^    struct operator_arrow_dispatch<T&, Pointer> \/\/ "real" references$/;"	s	namespace:boost::iterators::detail
+operator_arrow_dispatch_	iterator_facade.hpp	/^        > operator_arrow_dispatch_;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+operator_brackets	iterator_archetypes.hpp	/^  struct operator_brackets$/;"	s	namespace:boost::iterators::detail
+operator_brackets_proxy	iterator_facade.hpp	/^        operator_brackets_proxy(Iterator const& iter)$/;"	f	class:boost::iterators::detail::operator_brackets_proxy
+operator_brackets_proxy	iterator_facade.hpp	/^    class operator_brackets_proxy$/;"	c	namespace:boost::iterators::detail
+operator_brackets_result	iterator_facade.hpp	/^    struct operator_brackets_result$/;"	s	namespace:boost::iterators::detail
+outer	minimum_category.hpp	/^    > outer;$/;"	t	struct:boost::iterators::minimum_category
+permutation_iterator	permutation_iterator.hpp	/^  explicit permutation_iterator(ElementIterator x, IndexIterator y)$/;"	f	class:boost::iterators::permutation_iterator
+permutation_iterator	permutation_iterator.hpp	/^  permutation_iterator($/;"	f	class:boost::iterators::permutation_iterator
+permutation_iterator	permutation_iterator.hpp	/^  permutation_iterator() : m_elt_iter() {}$/;"	f	class:boost::iterators::permutation_iterator
+permutation_iterator	permutation_iterator.hpp	/^class permutation_iterator$/;"	c	namespace:boost::iterators
+pointer	iterator_archetypes.hpp	/^        typedef Value*                          pointer;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+pointer	iterator_archetypes.hpp	/^        typedef void pointer;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+pointer	iterator_archetypes.hpp	/^    typedef typename base::pointer pointer;$/;"	t	struct:boost::iterators::iterator_archetype
+pointer	iterator_facade.hpp	/^        >::type pointer;$/;"	t	struct:boost::iterators::detail::iterator_facade_types
+pointer	iterator_facade.hpp	/^        typedef typename operator_arrow_dispatch_::result_type pointer;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+postfix_increment_proxy	iterator_facade.hpp	/^        explicit postfix_increment_proxy(Iterator const& x)$/;"	f	class:boost::iterators::detail::postfix_increment_proxy
+postfix_increment_proxy	iterator_facade.hpp	/^    class postfix_increment_proxy$/;"	c	namespace:boost::iterators::detail
+postfix_increment_result	iterator_facade.hpp	/^    struct postfix_increment_result$/;"	s	namespace:boost::iterators::detail
+predicate	filter_iterator.hpp	/^      Predicate predicate() const { return m_predicate; }$/;"	f	class:boost::iterators::filter_iterator
+proxy	iterator_facade.hpp	/^            explicit proxy(Reference const & x) : m_ref(x) {}$/;"	f	struct:boost::iterators::detail::operator_arrow_dispatch::proxy
+proxy	iterator_facade.hpp	/^        struct proxy$/;"	s	struct:boost::iterators::detail::operator_arrow_dispatch
+pure_iterator_traversal	iterator_categories.hpp	/^struct pure_iterator_traversal$/;"	s	namespace:boost::iterators
+pure_iterator_traversal	iterator_categories.hpp	/^struct pure_iterator_traversal<mpl::_1>$/;"	s	namespace:boost::iterators
+pure_iterator_traversal	iterator_categories.hpp	/^struct pure_iterator_traversal<mpl::_>$/;"	s	namespace:boost::iterators
+pure_traversal_tag	iterator_categories.hpp	/^struct pure_traversal_tag$/;"	s	namespace:boost::iterators
+r	iterator_facade.hpp	/^        static Reference r;$/;"	m	struct:boost::iterators::detail::is_non_proxy_reference_impl
+random_access_readable_iterator_test	new_iterator_tests.hpp	/^void random_access_readable_iterator_test(Iterator i, int N, TrueVals vals)$/;"	f	namespace:boost
+random_access_traversal_tag	iterator_categories.hpp	/^struct random_access_traversal_tag$/;"	s	namespace:boost::iterators
+read_proxy	iterator_archetypes.hpp	/^  struct read_proxy$/;"	s	namespace:boost::iterators::detail
+read_write_proxy	iterator_archetypes.hpp	/^  struct read_write_proxy$/;"	s	namespace:boost::iterators::detail
+readable_iterator_bit	iterator_archetypes.hpp	/^      readable_iterator_bit = 1$/;"	e	enum:boost::iterators::archetypes::__anon1
+readable_iterator_t	iterator_archetypes.hpp	/^  typedef mpl::int_<readable_iterator_bit>::type readable_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+readable_iterator_test	new_iterator_tests.hpp	/^void readable_iterator_test(const Iterator i1, T v)$/;"	f	namespace:boost
+readable_iterator_traversal_test	new_iterator_tests.hpp	/^void readable_iterator_traversal_test(Iterator i1, T v, mpl::true_)$/;"	f	namespace:boost
+readable_iterator_traversal_test	new_iterator_tests.hpp	/^void readable_iterator_traversal_test(const Iterator i1, T v, mpl::false_)$/;"	f	namespace:boost
+readable_lvalue_iterator_t	iterator_archetypes.hpp	/^          >::type readable_lvalue_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+readable_operator_brackets	iterator_archetypes.hpp	/^  struct readable_operator_brackets$/;"	s	namespace:boost::iterators::detail
+readable_writable_iterator_t	iterator_archetypes.hpp	/^          >::type readable_writable_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+rebind	is_lvalue_iterator.hpp	/^      struct rebind : boost::mpl::false_$/;"	s	struct:boost::iterators::detail::is_lvalue_iterator_impl
+rebind	is_lvalue_iterator.hpp	/^      struct rebind$/;"	s	struct:boost::iterators::detail::is_lvalue_iterator_impl
+rebind	is_readable_iterator.hpp	/^      struct rebind : boost::mpl::false_$/;"	s	struct:boost::iterators::detail::is_readable_iterator_impl
+rebind	is_readable_iterator.hpp	/^      struct rebind$/;"	s	struct:boost::iterators::detail::is_readable_iterator_impl
+reference	iterator_archetypes.hpp	/^        typedef Value                           reference;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+reference	iterator_archetypes.hpp	/^        typedef Value&    reference;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+reference	iterator_archetypes.hpp	/^        typedef detail::read_write_proxy<Value>    reference;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+reference	iterator_archetypes.hpp	/^        typedef void reference;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+reference	iterator_archetypes.hpp	/^    typedef typename base::reference reference;$/;"	t	struct:boost::iterators::iterator_archetype
+reference	iterator_facade.hpp	/^        typedef Reference reference;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+reference	iterator_facade.hpp	/^        typedef typename Iterator::reference  reference;$/;"	t	class:boost::iterators::detail::operator_brackets_proxy
+reference	iterator_facade.hpp	/^        typedef typename base_type::reference reference;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+reference	transform_iterator.hpp	/^        >::type reference;$/;"	t	struct:boost::iterators::detail::transform_iterator_base
+reference	zip_iterator.hpp	/^        detail::tuple_of_references<IteratorTuple>::type reference;$/;"	t	struct:boost::iterators::detail::zip_iterator_base
+result_type	iterator_facade.hpp	/^        typedef Pointer result_type;$/;"	t	struct:boost::iterators::detail::operator_arrow_dispatch
+result_type	iterator_facade.hpp	/^        typedef proxy result_type;$/;"	t	struct:boost::iterators::detail::operator_arrow_dispatch
+reverse_iterator	reverse_iterator.hpp	/^      explicit reverse_iterator(Iterator x)$/;"	f	class:boost::iterators::reverse_iterator
+reverse_iterator	reverse_iterator.hpp	/^      reverse_iterator($/;"	f	class:boost::iterators::reverse_iterator
+reverse_iterator	reverse_iterator.hpp	/^      reverse_iterator() {}$/;"	f	class:boost::iterators::reverse_iterator
+reverse_iterator	reverse_iterator.hpp	/^  class reverse_iterator$/;"	c	namespace:boost::iterators
+satisfy_predicate	filter_iterator.hpp	/^      void satisfy_predicate()$/;"	f	class:boost::iterators::filter_iterator
+single_pass_traversal_tag	iterator_categories.hpp	/^struct single_pass_traversal_tag$/;"	s	namespace:boost::iterators
+state	function_input_iterator.hpp	/^            Input state;$/;"	m	class:boost::iterators::impl::function_input_iterator
+state	function_input_iterator.hpp	/^            Input state;$/;"	m	class:boost::iterators::impl::function_pointer_input_iterator
+stored_iterator	iterator_facade.hpp	/^        Iterator stored_iterator;$/;"	m	class:boost::iterators::detail::writable_postfix_increment_proxy
+stored_value	iterator_facade.hpp	/^        mutable value_type stored_value;$/;"	m	class:boost::iterators::detail::postfix_increment_proxy
+stored_value	iterator_facade.hpp	/^        mutable value_type stored_value;$/;"	m	class:boost::iterators::detail::writable_postfix_increment_proxy
+super_t	counting_iterator.hpp	/^    >::type super_t;$/;"	t	class:boost::iterators::counting_iterator
+super_t	filter_iterator.hpp	/^      >::type super_t;$/;"	t	class:boost::iterators::filter_iterator
+super_t	indirect_iterator.hpp	/^      >::type super_t;$/;"	t	class:boost::iterators::indirect_iterator
+super_t	iterator_adaptor.hpp	/^      >::type super_t;$/;"	t	class:boost::iterators::iterator_adaptor
+super_t	permutation_iterator.hpp	/^          , use_default, typename boost::detail::iterator_traits<ElementIterator>::reference> super_t;$/;"	t	class:boost::iterators::permutation_iterator
+super_t	reverse_iterator.hpp	/^      typedef iterator_adaptor< reverse_iterator<Iterator>, Iterator > super_t;$/;"	t	class:boost::iterators::reverse_iterator
+super_t	transform_iterator.hpp	/^    super_t;$/;"	t	class:boost::iterators::transform_iterator
+super_t	zip_iterator.hpp	/^     detail::zip_iterator_base<IteratorTuple>::type super_t;$/;"	t	class:boost::iterators::zip_iterator
+swappable_iterator_bit	iterator_archetypes.hpp	/^    , swappable_iterator_bit = 4$/;"	e	enum:boost::iterators::archetypes::__anon1
+swappable_iterator_t	iterator_archetypes.hpp	/^  typedef mpl::int_<swappable_iterator_bit>::type swappable_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+swappable_iterator_test	new_iterator_tests.hpp	/^void swappable_iterator_test(Iterator i, Iterator j)$/;"	f	namespace:boost
+transform_iterator	transform_iterator.hpp	/^    explicit transform_iterator(Iterator const& x)$/;"	f	class:boost::iterators::transform_iterator
+transform_iterator	transform_iterator.hpp	/^    transform_iterator($/;"	f	class:boost::iterators::transform_iterator
+transform_iterator	transform_iterator.hpp	/^    transform_iterator() { }$/;"	f	class:boost::iterators::transform_iterator
+transform_iterator	transform_iterator.hpp	/^    transform_iterator(Iterator const& x, UnaryFunc f)$/;"	f	class:boost::iterators::transform_iterator
+transform_iterator	transform_iterator.hpp	/^  class transform_iterator$/;"	c	namespace:boost::iterators
+transform_iterator_base	transform_iterator.hpp	/^    struct transform_iterator_base$/;"	s	namespace:boost::iterators::detail
+traversal	counting_iterator.hpp	/^      >::type traversal;$/;"	t	struct:boost::iterators::detail::counting_iterator_base
+traversal_archetype_	iterator_archetypes.hpp	/^      traversal_archetype_() {}$/;"	f	struct:boost::iterators::detail::traversal_archetype_
+traversal_archetype_	iterator_archetypes.hpp	/^      traversal_archetype_(ctor_arg arg)$/;"	f	struct:boost::iterators::detail::traversal_archetype_
+traversal_archetype_	iterator_archetypes.hpp	/^  struct traversal_archetype_$/;"	s	namespace:boost::iterators::detail
+traversal_archetype_base	iterator_archetypes.hpp	/^struct traversal_archetype_base$/;"	s	namespace:boost::iterators
+traversal_archetype_impl	iterator_archetypes.hpp	/^  struct traversal_archetype_impl$/;"	s	namespace:boost::iterators::detail
+traversal_archetype_impl	iterator_archetypes.hpp	/^  struct traversal_archetype_impl<bidirectional_traversal_tag>$/;"	s	namespace:boost::iterators::detail
+traversal_archetype_impl	iterator_archetypes.hpp	/^  struct traversal_archetype_impl<forward_traversal_tag>$/;"	s	namespace:boost::iterators::detail
+traversal_archetype_impl	iterator_archetypes.hpp	/^  struct traversal_archetype_impl<incrementable_traversal_tag>$/;"	s	namespace:boost::iterators::detail
+traversal_archetype_impl	iterator_archetypes.hpp	/^  struct traversal_archetype_impl<random_access_traversal_tag>$/;"	s	namespace:boost::iterators::detail
+traversal_archetype_impl	iterator_archetypes.hpp	/^  struct traversal_archetype_impl<single_pass_traversal_tag>$/;"	s	namespace:boost::iterators::detail
+traversal_category	zip_iterator.hpp	/^        >::type traversal_category;$/;"	t	struct:boost::iterators::detail::zip_iterator_base
+tuple_equal	zip_iterator.hpp	/^      inline bool tuple_equal(Tuple1 const& t1, Tuple2 const& t2)$/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_equal	zip_iterator.hpp	/^      inline bool tuple_equal(tuples::null_type, tuples::null_type)$/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_for_each	zip_iterator.hpp	/^      inline Fun BOOST_TUPLE_ALGO(tuple_for_each)($/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_for_each	zip_iterator.hpp	/^      tuple_for_each($/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_impl_specific	zip_iterator.hpp	/^    namespace tuple_impl_specific$/;"	n	namespace:boost::iterators::detail
+tuple_meta_accumulate	zip_iterator.hpp	/^      struct tuple_meta_accumulate$/;"	s	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_meta_accumulate_impl	zip_iterator.hpp	/^      struct tuple_meta_accumulate_impl$/;"	s	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_meta_transform	zip_iterator.hpp	/^      struct tuple_meta_transform$/;"	s	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_meta_transform_impl	zip_iterator.hpp	/^      struct tuple_meta_transform_impl$/;"	s	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_of_references	zip_iterator.hpp	/^    struct tuple_of_references$/;"	s	namespace:boost::iterators::detail
+tuple_of_traversal_tags	zip_iterator.hpp	/^      >::type tuple_of_traversal_tags;$/;"	t	struct:boost::iterators::detail::minimum_traversal_category_in_iterator_tuple
+tuple_transform	zip_iterator.hpp	/^      BOOST_TUPLE_ALGO(tuple_transform)($/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_transform	zip_iterator.hpp	/^      inline tuples::null_type BOOST_TUPLE_ALGO(tuple_transform)$/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+tuple_transform	zip_iterator.hpp	/^      tuple_transform($/;"	f	namespace:boost::iterators::detail::tuple_impl_specific
+type	counting_iterator.hpp	/^      > type;$/;"	t	struct:boost::iterators::detail::counting_iterator_base
+type	counting_iterator.hpp	/^      typedef typename boost::detail::numeric_traits<T>::difference_type type;$/;"	t	struct:boost::iterators::detail::numeric_difference
+type	detail/enable_if.hpp	/^        typedef T type;$/;"	t	struct:boost::iterators::enabled::base
+type	detail/facade_iterator_category.hpp	/^    >::type type;$/;"	t	struct:boost::iterators::detail::facade_iterator_category_impl
+type	filter_iterator.hpp	/^        > type;$/;"	t	struct:boost::iterators::detail::filter_iterator_base
+type	indirect_iterator.hpp	/^        > type;$/;"	t	struct:boost::iterators::detail::indirect_base
+type	iterator_adaptor.hpp	/^        type;$/;"	t	struct:boost::iterators::detail::iterator_adaptor_base
+type	iterator_adaptor.hpp	/^      typedef boost::iterators::detail::enable_type type;$/;"	t	struct:boost::iterators::enable_if_convertible
+type	iterator_facade.hpp	/^            typedef bool type;$/;"	t	struct:boost::iterators::detail::always_bool2::apply
+type	iterator_facade.hpp	/^        >::type type;$/;"	t	struct:boost::iterators::detail::operator_brackets_result
+type	iterator_traits.hpp	/^    typedef typename boost::detail::iterator_traits<Iterator>::difference_type type;$/;"	t	struct:boost::iterators::iterator_difference
+type	iterator_traits.hpp	/^    typedef typename boost::detail::iterator_traits<Iterator>::iterator_category type;$/;"	t	struct:boost::iterators::iterator_category
+type	iterator_traits.hpp	/^    typedef typename boost::detail::iterator_traits<Iterator>::pointer type;$/;"	t	struct:boost::iterators::iterator_pointer
+type	iterator_traits.hpp	/^    typedef typename boost::detail::iterator_traits<Iterator>::reference type;$/;"	t	struct:boost::iterators::iterator_reference
+type	iterator_traits.hpp	/^    typedef typename boost::detail::iterator_traits<Iterator>::value_type type;$/;"	t	struct:boost::iterators::iterator_value
+type	minimum_category.hpp	/^        typedef T1 type;$/;"	t	struct:boost::iterators::detail::minimum_category_impl::apply
+type	minimum_category.hpp	/^        typedef T2 type;$/;"	t	struct:boost::iterators::detail::minimum_category_impl::apply
+type	minimum_category.hpp	/^    typedef typename inner::type type;$/;"	t	struct:boost::iterators::minimum_category
+type	transform_iterator.hpp	/^        > type;$/;"	t	struct:boost::iterators::detail::transform_iterator_base
+type	zip_iterator.hpp	/^          > type;$/;"	t	struct:boost::iterators::detail::tuple_impl_specific::tuple_meta_transform_impl
+type	zip_iterator.hpp	/^         >::type type;$/;"	t	struct:boost::iterators::detail::tuple_impl_specific::tuple_meta_accumulate_impl
+type	zip_iterator.hpp	/^        > type;$/;"	t	struct:boost::iterators::detail::zip_iterator_base
+type	zip_iterator.hpp	/^        type;$/;"	t	struct:boost::iterators::detail::dereference_iterator::apply
+type	zip_iterator.hpp	/^        typedef int type;$/;"	t	struct:boost::iterators::detail::zip_iterator_base
+type	zip_iterator.hpp	/^        typedef typename boost::detail::iterator_traits<Iterator>::reference type;$/;"	t	struct:boost::iterators::detail::iterator_reference
+type	zip_iterator.hpp	/^      >::type type;$/;"	t	struct:boost::iterators::detail::minimum_traversal_category_in_iterator_tuple
+use_operator_brackets_proxy	iterator_facade.hpp	/^    struct use_operator_brackets_proxy$/;"	s	namespace:boost::iterators::detail
+v	iterator_concepts.hpp	/^      ValueType v;$/;"	m	struct:boost_concepts::WritableIterator
+value	function_input_iterator.hpp	/^            mutable optional<typename Function::result_type> value;$/;"	m	class:boost::iterators::impl::function_input_iterator
+value	function_input_iterator.hpp	/^            mutable optional<typename function_types::result_type<Function>::type> value;$/;"	m	class:boost::iterators::impl::function_pointer_input_iterator
+value_type	iterator_archetypes.hpp	/^        typedef typename remove_cv<Value>::type value_type;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+value_type	iterator_archetypes.hpp	/^        typedef void value_type;$/;"	t	struct:boost::iterators::iterator_access_archetype_impl::archetype
+value_type	iterator_archetypes.hpp	/^    typedef typename base::value_type value_type;$/;"	t	struct:boost::iterators::iterator_archetype
+value_type	iterator_facade.hpp	/^        typedef typename Iterator::value_type value_type;$/;"	t	class:boost::iterators::detail::operator_brackets_proxy
+value_type	iterator_facade.hpp	/^        typedef typename associated_types::value_type value_type;$/;"	t	class:boost::iterators::detail::iterator_facade_base
+value_type	iterator_facade.hpp	/^        typedef typename iterator_value<Iterator>::type value_type;$/;"	t	class:boost::iterators::detail::postfix_increment_proxy
+value_type	iterator_facade.hpp	/^        typedef typename iterator_value<Iterator>::type value_type;$/;"	t	class:boost::iterators::detail::writable_postfix_increment_proxy
+value_type	iterator_facade.hpp	/^        typedef typename remove_const<ValueParam>::type value_type;$/;"	t	struct:boost::iterators::detail::iterator_facade_types
+value_type	zip_iterator.hpp	/^        typedef reference value_type;$/;"	t	struct:boost::iterators::detail::zip_iterator_base
+workaround_iterator_base	iterator_archetypes.hpp	/^      > workaround_iterator_base;$/;"	t	struct:boost::iterators::detail::iterator_archetype_base
+writable_iterator_bit	iterator_archetypes.hpp	/^    , writable_iterator_bit = 2$/;"	e	enum:boost::iterators::archetypes::__anon1
+writable_iterator_t	iterator_archetypes.hpp	/^  typedef mpl::int_<writable_iterator_bit>::type writable_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+writable_iterator_test	new_iterator_tests.hpp	/^void writable_iterator_test(Iterator i, T v, T v2)$/;"	f	namespace:boost
+writable_iterator_traversal_test	new_iterator_tests.hpp	/^void writable_iterator_traversal_test(Iterator i1, T v, mpl::true_)$/;"	f	namespace:boost
+writable_iterator_traversal_test	new_iterator_tests.hpp	/^void writable_iterator_traversal_test(const Iterator i1, T v, mpl::false_)$/;"	f	namespace:boost
+writable_lvalue_iterator_t	iterator_archetypes.hpp	/^          >::type writable_lvalue_iterator_t;$/;"	t	namespace:boost::iterators::archetypes
+writable_operator_brackets	iterator_archetypes.hpp	/^  struct writable_operator_brackets$/;"	s	namespace:boost::iterators::detail
+writable_postfix_increment_proxy	iterator_facade.hpp	/^        explicit writable_postfix_increment_proxy(Iterator const& x)$/;"	f	class:boost::iterators::detail::writable_postfix_increment_proxy
+writable_postfix_increment_proxy	iterator_facade.hpp	/^    class writable_postfix_increment_proxy$/;"	c	namespace:boost::iterators::detail
+x	is_lvalue_iterator.hpp	/^          static It& x;$/;"	m	struct:boost::iterators::detail::is_lvalue_iterator_impl::rebind
+x	is_readable_iterator.hpp	/^          static It& x;$/;"	m	struct:boost::iterators::detail::is_readable_iterator_impl::rebind
+zip_iterator	zip_iterator.hpp	/^    zip_iterator($/;"	f	class:boost::iterators::zip_iterator
+zip_iterator	zip_iterator.hpp	/^    zip_iterator() { }$/;"	f	class:boost::iterators::zip_iterator
+zip_iterator	zip_iterator.hpp	/^    zip_iterator(IteratorTuple iterator_tuple)$/;"	f	class:boost::iterators::zip_iterator
+zip_iterator	zip_iterator.hpp	/^  class zip_iterator :$/;"	c	namespace:boost::iterators
+zip_iterator_base	zip_iterator.hpp	/^    struct zip_iterator_base$/;"	s	namespace:boost::iterators::detail
+zip_iterator_base	zip_iterator.hpp	/^    struct zip_iterator_base<int>$/;"	s	namespace:boost::iterators::detail
